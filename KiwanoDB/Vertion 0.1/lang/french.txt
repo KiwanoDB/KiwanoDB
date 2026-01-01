@@ -1,1 +1,0 @@
-Changer BaseDeDonnées/autre/V0.1 Alpha/Créer Nouveau/Insérer Ligne/Éditer Ligne/Supprimer Ligne/Éditer Table/Supprimer Table/Paramètres/Table/Aide/Documentation
