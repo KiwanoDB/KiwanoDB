@@ -1,0 +1,1 @@
+Change DataBase/other/V0.1 Alpha/Create New/Insert Row/Edit Row/Delete Row/Edit Table/Delete Table/Settings/Table/Help/Documentation

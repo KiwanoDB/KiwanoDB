@@ -1,0 +1,1 @@
+Cambiar base de datos/otro/V0.1 Alpha/Crear nuevo/Insertar fila/Editar fila/Eliminar fila/Editar tabla/Eliminar tabla/Configuración/Tabla/Ayuda/Documentación
